@@ -51,9 +51,6 @@
     <ClCompile Include="ffmpeg_video_decoder_factory.cc">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="d3d9_render.cc">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="json.cc">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -111,9 +108,6 @@
       <Filter>源文件</Filter>
     </ClInclude>
     <ClInclude Include="ffmpeg_video_decoder_factory.h">
-      <Filter>源文件</Filter>
-    </ClInclude>
-    <ClInclude Include="d3d9_render.h">
       <Filter>源文件</Filter>
     </ClInclude>
     <ClInclude Include="jsoncpp\json\assertions.h">

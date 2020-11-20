@@ -9,6 +9,6 @@
 // Video-Codec-SDK Version: 8.2
 #include "NvEncoder/NvEncoderD3D11.h" 
 
-extern struct encoder_info nvenc_info;
+extern struct nvenc_info nvenc_info;
 
 #endif

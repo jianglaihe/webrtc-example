@@ -153,7 +153,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="conductor.cc" />
-    <ClCompile Include="d3d9_render.cc" />
     <ClCompile Include="defaults.cc" />
     <ClCompile Include="external_decoder.cc" />
     <ClCompile Include="external_video_decoder_factory.cc" />
@@ -175,7 +174,6 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="conductor.h" />
-    <ClInclude Include="d3d9_render.h" />
     <ClInclude Include="defaults.h" />
     <ClInclude Include="external_decoder.h" />
     <ClInclude Include="external_video_decoder_factory.h" />
